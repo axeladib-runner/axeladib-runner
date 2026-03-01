@@ -32,7 +32,7 @@ I love building mobile applications and modern web apps that solve real-world pr
 ## 📱 What I'm Building
 - Habit tracking apps
 - Gamified fitness apps
-- Commission tracking systems
+- Commission tracking systems✅
 - Smart sensor-based mobile apps
 
 ---
