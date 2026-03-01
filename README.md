@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋 I'm Axel
 
-<!--
-**axeladib-runner/axeladib-runner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+💻 JavaScript Developer  
+📱 Mobile App Developer (React Native)  
+🌐 Fullstack with Next.js  
+🔥 Firebase & MongoDB Builder  
+🌱 Planter by hobby, Coder by passion  
 
-Here are some ideas to get you started:
+I love building mobile applications and modern web apps that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![React Native](https://img.shields.io/badge/ReactNative-20232A?logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb)
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+- JavaScript (ES6+)
+- React Native
+- Next.js
+
+### ⚙ Backend & Database
+- Firebase
+- MongoDB
+
+---
+
+## 📱 What I'm Building
+- Habit tracking apps
+- Gamified fitness apps
+- Commission tracking systems
+- Smart sensor-based mobile apps
+
+---
+
+## 🌱 Beyond Coding
+When I'm not coding, I'm:
+- 🌿 Worked as planters in oil palm plantation
+- 🧠 Exploring new tech
+- 🚀 Building side projects
+
+---
+
+## 📊 GitHub Stats
+![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add link)
+- Portfolio: (add link)
