@@ -5,7 +5,7 @@
 📱 Mobile App Developer (React Native)  
 🌐 Fullstack with Next.js  
 🔥 Firebase & MongoDB Builder  
-🌱 Planter by hobby, Coder by passion  
+🌱 Planter in day, Coder at night  
 
 I love building mobile applications and modern web apps that solve real-world problems.
 
