@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Axel
+# Hi there 👋 I'm Adib
 
 ## 🚀 About Me
 💻 JavaScript Developer  
